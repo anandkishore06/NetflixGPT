@@ -1,0 +1,53 @@
+# Netfix GPT
+-Create react app
+-Configured Tailwaind
+-Header
+-Routing of App
+-Login form
+-Sign up form
+-Form Validation
+-useRef Hook
+-Firebase setup
+-Deploying our app to production
+-Create SignUp user account
+-Implement sign in user api
+-Created Redux store with userSlice
+-Implemented sign out 
+-Update profile api call
+-Bugfix: Sign up user displayName and profile picture update
+-Bugfix: if the user is not logged in redirect/browse to login page and vice-versa
+-Unsubscribed to the onAuthStateChange callback
+-Add hardcoded values to the constants file
+-Register TMDB API & create an app & get access token
+-Get data from TMDB now playing movies  list API
+-Custom hook for Now Playing Movies
+-Create moviesSlice
+-Update store with movies Data
+-Planning for MainContainer & secondary container
+-Update store with trailer video data
+-Embedded the youtube video and make it autoplay and mute
+-Tailwind classes to make MainContainer look awesome
+-Build Secondary Container
+-Build movie list
+-Build movie card
+-TMDB image CDN URL
+-Made the browse page amazing with tailwind CSS
+-usPopularMovies Custom Hook
+-GPT search page
+-GPT search Bar
+-Multi-Language feature in our App
+
+# Features
+-Login/Sign up
+    -Sign in / Sign up form
+    -Redirect to browse page
+-Browse (After authentication)
+    -Header
+    -Main Movie
+        -Tailer in background
+        -Title & description
+    -Movie Suggestions
+        -Movie lists * N
+-Netflix GPT
+    -Search bar
+    -Movies Suggestions
